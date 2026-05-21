@@ -2,8 +2,16 @@
 layout: default
 ---
 
-# Coursera-test
+# 我的第一个网站
 
-Coursera test repository
+这是我用 GitHub Pages 发布的网站。
 
-[View on GitHub](https://github.com/likksm/coursea-test)
+## 我正在学习的内容
+
+HTML  
+CSS  
+JavaScript  
+
+## 我的目标
+
+学会自己搭建一个简单网站。
